@@ -1,0 +1,10 @@
+# Operating-system files that are about your machine, not the project
+.DS_Store
+Thumbs.db
+
+# Editor settings — yours, not the team's
+.vscode/
+.idea/
+
+# Ticket 4 asks you to add two more entries here, with a comment above each
+# saying why. Read the ones above first: each says WHY, not just WHAT.
